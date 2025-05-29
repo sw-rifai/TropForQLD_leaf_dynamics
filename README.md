@@ -1,15 +1,17 @@
 # TropForQLD_leaf_dynamics
 
 to do:  
--- GEE 
---- GEDI
---- MODIS
---- S2
---- Landsat
+* GEE 
+** GEDI 
+** Landsat 
+** MODIS 
+** S2 
 
--- ALS 
---- determine what has been collected 
+* ALS 
+** what has been collected? 
 
 
--- TLS 
---- determine what has been collected 
+* TLS 
+** what has been collected?
+
+
